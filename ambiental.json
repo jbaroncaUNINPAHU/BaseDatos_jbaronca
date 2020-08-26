@@ -1,0 +1,72 @@
+[
+  {
+    "key": 1,
+    "alimentos": "Hamburguesa",
+    "saludable": "No",
+    "precio": 12000,
+    "unidad": "Unidad"
+  },
+  {
+    "key": 2,
+     "alimentos": "Pizza",
+     "saludable": "No",	
+     "precio": 5000,
+     "unidad": "Unidad"
+  },
+  {
+    "key": 3,
+    "alimentos": "Zanahoria",
+    "saludable": "Si",
+    "precio": 600,
+    "unidad": "Unidad"
+  },
+  {
+    "key": 4,
+    "alimentos": "Manzana",
+    "saludable": "Si",
+    "precio": 700,
+    "unidad": "Unidad"
+  },
+  {
+    "key": 5,
+    "alimentos": "Salchipapa",
+    "saludable": "No",
+    "precio": 5000,
+    "unidad": "Unidad"
+  },
+  {
+    "key": 6,
+    "alimentos": "Carne",
+    "saludable": "No",
+    "precio": 6000,
+    "unidad": "Libra"
+  },
+  {
+    "key": 7,
+    "alimentos": "Arroz",
+    "saludable": "No",
+    "precio": 1800,
+    "unidad": "Libra"
+  },
+  {
+    "key": 8,
+    "alimentos": "Pollo",
+    "saludable": "Si",
+    "precio": 12000,
+    "unidad": "Unidad"
+  },
+  {
+    "key": 9,
+    "alimentos": "Bagre",
+    "saludable": "Si",
+    "precio": 8000,
+    "unidad": "Libra"
+  },
+  {
+    "key": 10,
+    "alimentos": "Huevo",
+    "saludable": "Si",
+    "precio": 300,
+    "unidad": "Unidad"
+  }
+]
