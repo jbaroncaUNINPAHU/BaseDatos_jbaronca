@@ -9,3 +9,8 @@ Imagen alimento poco saludable pero muy rico
 Modelo de base de datos
 
 ![alt text](https://github.com/jbaroncaUNINPAHU/BaseDatos_jbaronca/blob/ModeloBDJerarquico/MAPA%20CONCEPTUAL%20ALIMENTACION.jpg)
+
+
+Modelo BD Relacional
+
+![alt text](https://github.com/jbaroncaUNINPAHU/BaseDatos_jbaronca/blob/ModeloRelacional/tmp_1599915929110.jpg)
