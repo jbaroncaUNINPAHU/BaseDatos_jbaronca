@@ -115,7 +115,7 @@ namespace proyectoUniversidad
     {
         static int cantidadProfesores = 2;
         static int cantidadAdministrativos = 2;
-        static int cantidadEstudiantes = 2;
+        static int cantidadEstudiantes = 10;
 
         static Profesor[] profesores = new Profesor[cantidadProfesores];
         static Administrativo[] administrativos = new Administrativo[cantidadAdministrativos];
